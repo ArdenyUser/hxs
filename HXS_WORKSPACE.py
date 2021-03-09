@@ -8,3 +8,4 @@ if x == "1":
   myfile = open(filename, 'w')
   myfile.write(hbdock)
   myfile.close()
+  inport compile
